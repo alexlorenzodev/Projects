@@ -7,4 +7,7 @@ struct MyApp: App {
             ContentView()
         }
     }
+  
 }
+
+print("hello!")
